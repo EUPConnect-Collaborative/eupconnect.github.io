@@ -1,6 +1,6 @@
 --- layout: default title: EUPConnect Collaborative Network Overview
 
-##### 🌐 EUPConnect Collaborative Network Members and Partners
+## 🌐 EUPConnect Collaborative Network Members and Partners
 
 ### 🏫 Network K–12 School Members
 
@@ -92,19 +92,19 @@
 
 - Mackinac County
 
-## 🎓 Network Community College and University Partners
+### 🎓 Network Community College and University Partners
 
 - Bay Mills Community College
 
 - Lake Superior State University
 
-## 🪶 Network Tribal Partners
+### 🪶 Network Tribal Partners
 
 - Bay Mills Indian Community
 
 - Sault Ste. Marie Tribe of Chippewa Indians
 
-## 🏥 Network Healthcare & Medical Centers Partners
+### 🏥 Network Healthcare & Medical Centers Partners
 
 - Helen Newberry Joy Hospital
 
@@ -112,7 +112,7 @@
 
 - MyMichigan Medical Center – Sault
 
-## 🌐 Network Community Partners
+### 🌐 Network Community Partners
 
 - Chippewa-Luce-Mackinac Community Action Agency
 
@@ -124,7 +124,7 @@
 
 - Les Cheneaux Community Foundation
 
-## 💼 Network Financial and Economic Development Partners
+### 💼 Network Financial and Economic Development Partners
 
 - Chippewa County Economic Development Corporation
 
@@ -134,7 +134,7 @@
 
 - Eastern Upper Peninsula Regional Planning & Development Commission
 
-## 🔬 Network Research Partners
+### 🔬 Network Research Partners
 
 - Internet Equity Initiative at the University of Chicago
 
