@@ -1,142 +1,145 @@
+--- layout: default title: EUPConnect Collaborative Network Overview
+
 🌐 EUPConnect Collaborative Network Members and Partners
 
 🏫 Network K–12 School Members
 
-Bois Blanc Pines School
+- Bois Blanc Pines School
 
-Brimley Area Schools
+- Brimley Area Schools
 
-DeTour Area Schools
+- DeTour Area Schools
 
-DeTour Arts & Technology Academy
+- DeTour Arts & Technology Academy
 
-Eastern Upper Peninsula Intermediate School District
+- Eastern Upper Peninsula Intermediate School District
 
-Engadine Consolidated Schools
+- Engadine Consolidated Schools
 
-JKL Bahweting School
+- JKL Bahweting School
 
-Lake Superior Academy
+- Lake Superior Academy
 
-Les Cheneaux Community Schools
+- Les Cheneaux Community Schools
 
-Mackinac Island Public Schools
+- Mackinac Island Public Schools
 
-Moran Township Schools
+- Moran Township Schools
 
-Ojibwe Charter School
+- Ojibwe Charter School
 
-Pickford Public Schools
+- Pickford Public Schools
 
-Rudyard Area Schools
+- Rudyard Area Schools
 
-Sault Ste. Marie Area Schools
+- Sault Ste. Marie Area Schools
 
-St. Ignace Area Schools
+- St. Ignace Area Schools
 
-Tahquamenon Area Schools
+- Tahquamenon Area Schools
 
-Three Lakes Academy
+- Three Lakes Academy
 
-Whitefish Township Schools
+- Whitefish Township Schools
 
 🏙️ Network Township, Village and City Members
 
-Bay Mills Township
+- Bay Mills Township
 
-Brevort Township
+- Brevort Township
 
-Bruce Township
+- Bruce Township
 
-Chippewa Township
+- Chippewa Township
 
-City of Mackinac Island
+- City of Mackinac Island
 
-City of St. Ignace
+- City of St. Ignace
 
-Clark Township
+- Clark Township
 
-DeTour Township
+- DeTour Township
 
-DeTour Village
+- DeTour Village
 
-Drummond Township
+- Drummond Township
 
-Garfield Township
+- Garfield Township
 
-Hendricks Township
+- Hendricks Township
 
-Hudson Township
+- Hudson Township
 
-Kinross Charter Township
+- Kinross Charter Township
 
-Marquette Township
+- Marquette Township
 
-McMillan Township
+- McMillan Township
 
-Moran Township
+- Moran Township
 
-Newton Township
+- Newton Township
 
-Pickford Township
+- Pickford Township
 
-Raber Township
+- Raber Township
 
-St. Ignace Township
+- St. Ignace Township
 
-Sugar Island Township
+- Sugar Island Township
 
 🗺️ Network County Members
 
-Mackinac County
+- Mackinac County
 
 🎓 Network Community College and University Partners
 
-Bay Mills Community College
+- Bay Mills Community College
 
-Lake Superior State University
+- Lake Superior State University
 
 🪶 Network Tribal Partners
 
-Bay Mills Indian Community
+- Bay Mills Indian Community
 
-Sault Ste. Marie Tribe of Chippewa Indians
+- Sault Ste. Marie Tribe of Chippewa Indians
 
 🏥 Network Healthcare & Medical Centers Partners
 
-Helen Newberry Joy Hospital
+- Helen Newberry Joy Hospital
 
-Mackinac Straits Hospital
+- Mackinac Straits Hospital
 
-MyMichigan Medical Center – Sault
+- MyMichigan Medical Center – Sault
 
 🌐 Network Community Partners
 
-Chippewa-Luce-Mackinac Community Action Agency
+- Chippewa-Luce-Mackinac Community Action Agency
 
-Connected Nation
+- Connected Nation
 
-Eastern Upper Peninsula MiSTEM Region
+- Eastern Upper Peninsula MiSTEM Region
 
-Michigan State University Extension – 4-H Youth Development
+- Michigan State University Extension – 4-H Youth Development
 
-Les Cheneaux Community Foundation
+- Les Cheneaux Community Foundation
 
 💼 Network Financial and Economic Development Partners
 
-Chippewa County Economic Development Corporation
+- Chippewa County Economic Development Corporation
 
-Luce County Economic Development Corporation
+- Luce County Economic Development Corporation
 
-Mackinac Economic Alliance
+- Mackinac Economic Alliance
 
-Eastern Upper Peninsula Regional Planning & Development Commission
+- Eastern Upper Peninsula Regional Planning & Development Commission
 
 🔬 Network Research Partners
 
-Internet Equity Initiative at the University of Chicago
+- Internet Equity Initiative at the University of Chicago
 
-Merit Network
+- Merit Network
 
-Michigan State University Quello Center
+- Michigan State University Quello Center
 
+---
