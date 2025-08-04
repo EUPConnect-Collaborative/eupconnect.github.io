@@ -106,9 +106,9 @@
 
 ### 🏥 Network Healthcare & Medical Centers Partners
 
-- Helen Newberry Joy Hospital
+- Helen Newberry Joy Hospital & Health Clinics
 
-- Mackinac Straits Hospital
+- Mackinac Straits Health System
 
 - MyMichigan Medical Center – Sault
 
